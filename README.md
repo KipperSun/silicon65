@@ -1,4 +1,4 @@
-# [obb87]
+# [silicon65]
 
 A 80% ANSI keyboard designed by Geepon.
 
