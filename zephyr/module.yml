@@ -1,0 +1,8 @@
+# Copyright (c) 2026 bvbhu
+# SPDX-License-Identifier: MIT
+
+name: zmk-keyboard-silicon65
+build:
+  settings:
+    board_root: .
+    dts_root: .
